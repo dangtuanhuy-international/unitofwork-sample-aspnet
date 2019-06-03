@@ -1,0 +1,12 @@
+C:\Users\thaotm\source\repos\UnitOfWork\obj\Debug\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\thaotm\source\repos\UnitOfWork\bin\Debug\UnitOfWork.exe.config
+C:\Users\thaotm\source\repos\UnitOfWork\bin\Debug\UnitOfWork.exe
+C:\Users\thaotm\source\repos\UnitOfWork\bin\Debug\UnitOfWork.pdb
+C:\Users\thaotm\source\repos\UnitOfWork\bin\Debug\EntityFramework.dll
+C:\Users\thaotm\source\repos\UnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thaotm\source\repos\UnitOfWork\bin\Debug\EntityFramework.xml
+C:\Users\thaotm\source\repos\UnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thaotm\source\repos\UnitOfWork\obj\Debug\UnitOfWork.csproj.CopyComplete
+C:\Users\thaotm\source\repos\UnitOfWork\obj\Debug\UnitOfWork.exe
+C:\Users\thaotm\source\repos\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\Users\thaotm\source\repos\UnitOfWork\obj\Debug\UnitOfWork.csprojAssemblyReference.cache
